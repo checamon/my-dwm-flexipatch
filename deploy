@@ -1,0 +1,3 @@
+cp -f config.def.h config.h
+cp -f patches.def.h patches.h
+sudo make install
